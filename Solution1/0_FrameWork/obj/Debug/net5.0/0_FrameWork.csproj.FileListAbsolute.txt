@@ -1,0 +1,11 @@
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\bin\Debug\net5.0\0_FrameWork.deps.json
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\bin\Debug\net5.0\0_FrameWork.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\bin\Debug\net5.0\ref\0_FrameWork.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\bin\Debug\net5.0\0_FrameWork.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.AssemblyInfoInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.AssemblyInfo.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.csproj.CoreCompileInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\ref\0_FrameWork.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.pdb
