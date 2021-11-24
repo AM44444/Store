@@ -80,3 +80,8 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\ServicesHost.csproj.AssemblyReference.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
