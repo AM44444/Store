@@ -18,8 +18,13 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
        {
            _context = context;
        }
-      
-        public EditProductCategory GetDetails(long id)
+
+       public List<ProductCategoryViewModel> GetProductCategories()
+       {
+           throw new NotImplementedException();
+       }
+
+       public EditProductCategory GetDetails(long id)
         {
             return _context.ProductCategories.Select(x => new EditProductCategory
                 {

@@ -1,0 +1,8 @@
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.AssemblyReference.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfoInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfo.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CoreCompileInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cs

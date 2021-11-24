@@ -20,7 +20,7 @@ namespace ShopManagement.Application
         public OperationResult Create(CreateProductCategory Command)
         {
             var operationResult = new OperationResult();
-            if (_productCategoryRepository.Exist(x=>x.Name == Command.Name))
+            if (_productCategoryRepository.Exists(x=>x.Name == Command.Name))
                 return operationResult.Failed("امکان ثبت رکورد تکراری وجود ندارد");
             var slug = Command.Slug.Slugify();
             var productCategory = new ProductCategory(Command.Name, Command.Description
@@ -34,12 +34,12 @@ namespace ShopManagement.Application
         public OperationResult Edit(EditProductCategory Command)
         {
             var operation = new OperationResult();
-            var productCategory = _productCategoryRepository.GetBy(Command.Id);
+            var productCategory = _productCategoryRepository.Get(Command.Id);
             if (productCategory== null)
             {
                 return operation.Failed("رکورد با اطلاعات در خواست شده یافت نشد");
             }
-            else if(_productCategoryRepository.Exist(x=>x.Name==Command.Name && x.Id != Command.Id))
+            else if(_productCategoryRepository.Exists(x=>x.Name==Command.Name && x.Id != Command.Id))
             {
                 return operation.Failed("رکورد با اطلاعات در خواست شده یافت نشد");
             }
