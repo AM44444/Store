@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2sTXj/AWdsw+EcklcPbFk5ZG28XUH3Lv/3TS1BskdeWK2sHLm+wXcb0VVAGxPaosNfOYmzNdZ95vBWAhO+MjA==",
+  "dgSpecHash": "mjqZAjr/8o6l2qbYi8F6jeMuUbrZLjOJB9kU19bjYW0vin6yaIZF3RqnYy9VmkD19MGYgs7Tuoid3tBNGScCIQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mashadservice\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -19,7 +19,7 @@
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
-    "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\mashadservice\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
