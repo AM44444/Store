@@ -1,8 +1,3 @@
-D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
-D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
-D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
-D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\bin\Debug\net5.0\ref\ShopManagement.Application.dll
@@ -13,6 +8,11 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\b
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\bin\Debug\net5.0\0_FrameWork.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll

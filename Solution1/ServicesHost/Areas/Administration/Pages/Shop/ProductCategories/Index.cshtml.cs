@@ -22,5 +22,26 @@ namespace ServicesHost.Areas.Administration.Pages.Shop.ProductCategories
         {
             ProductCategory = _categoryApplication.Search(searchModel);
         }
+        public IActionResult OnGetCreate()
+        {
+            return Partial("./Create", new CreateProductCategory());
+        }
+        public JsonResult OnPostCreate(CreateProductCategory command)
+        {
+            var result = _categoryApplication.Create(command);
+            return new JsonResult(result);
+        }
+
+        public IActionResult OnGetEdit(long id)
+        {
+            var productCategoriesEdit = _categoryApplication.GetDetails(id);
+            return Partial("Edit", productCategoriesEdit);
+        }
+
+        public JsonResult OnPostEdit(EditProductCategory Command)
+        {
+            var productCategoriesEditP = _categoryApplication.Edit(Command);
+            return new JsonResult(productCategoriesEditP);
+        }
     }
 }

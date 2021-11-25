@@ -13,7 +13,9 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         public string KeyWords { get; private set; }
         public string MetaDescription { get; private set; }
 
-        public ProductCategory(string name, string description, string picture, string pictureAlt, string pictureTitle, string slug, string keyWords, string metaDescription)
+        public ProductCategory(string name, string description,
+            string picture, string pictureAlt, string pictureTitle,
+            string slug, string keyWords, string metaDescription)
         {
             Name = name;
             Description = description;
