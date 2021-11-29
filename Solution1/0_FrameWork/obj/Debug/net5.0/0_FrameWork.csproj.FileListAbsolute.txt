@@ -9,3 +9,4 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\ref\0_FrameWork.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\0_FrameWork\obj\Debug\net5.0\0_FrameWork.csproj.AssemblyReference.cache

@@ -8,6 +8,7 @@
         public double UnitPrice { get; set; }
         public string Picture { get; set; }
         public string Category { get; set; }
-        public long CategoryId { get; set; }
+        public long categoryId { get; set; }
+        public string CreationDate { get; set; }
     }
 }

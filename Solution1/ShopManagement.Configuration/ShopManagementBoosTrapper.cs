@@ -4,7 +4,8 @@ using ShopManagement.Application.Contracts.ProductCategory;
 using System;
 using Microsoft.EntityFrameworkCore;
 using ShopManagement.Application.Contracts.Product;
-using ShopManagement.Domain.Product;
+
+using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Infrastructure.EFCore;
 using ShopManagement.Infrastructure.EFCore.Repository;
