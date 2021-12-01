@@ -8,8 +8,9 @@ using ShopManagement.Application.Contracts.Product;
 
 namespace ShopManagement.Domain.ProductAgg
 {
-   public interface IProductRepository:IRepository<long,Product> 
-    {
+   public interface IProductRepository:IRepository<long,Product>
+   {
+       List<ProductViewModel> GetProducts();
         EditProduct GetDetails(long id);
         List<ProductViewModel> Search(ProductSearchModel searchModel);
     }

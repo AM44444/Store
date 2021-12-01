@@ -103,5 +103,10 @@ namespace ShopManagement.Application
         {
             return _productRepository.Search(searchModel);
         }
+
+        public List<ProductViewModel> GetProducts()
+        {
+            return _productRepository.GetProducts();
+        }
     }
 }

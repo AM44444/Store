@@ -93,3 +93,13 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\01_TennisQuery.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\01_TennisQuery.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs

@@ -24,3 +24,5 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Configuration
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Configuration\bin\Debug\net5.0\01_TennisQuery.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ShopManagement.Configuration\bin\Debug\net5.0\01_TennisQuery.pdb
