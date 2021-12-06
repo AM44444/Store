@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using _0_Framework.Application;
+using _0_FrameWork.Infrastructure;
+using DiscountManagement.Application.Contract.ColleagueDiscount;
+using DiscountManagement.Domain.ColleagueDiscountAgg;
+using Microsoft.EntityFrameworkCore;
+using ShopManagement.Infrastructure.EFCore;
+
+namespace DiscountManagement.Infrastructure.EFCore.Repository
+{
+    public class ColleagueDiscountRepository : RepositoryBase<long, ColleagueDiscount>, IColleagueDiscountRepository
+    {
+        private readonly ShopContext _shopContext;
+        private readonly DiscountContext _context;
+
+        public ColleagueDiscountRepository(DiscountContext context, ShopContext shopContext) : base(context)
+        {
+            _context = context;
+            _shopContext = shopContext;
+        }
+
+        public EditColleagueDiscount GetDetails(long id)
+        {
+            return _context.ColleagueDiscounts.Select(x => new EditColleagueDiscount
+                {
+                    DiscountRate = x.DiscountRate,
+                    Id = x.Id,
+                    ProductId = x.ProductId,
+
+                })
+                .FirstOrDefault(x => x.Id == id);
+
+        }
+
+        public List<ColleagueDiscountViewModel> Search(ColleagueDiscountSearchModel searchModel)
+        {
+            var Products = _shopContext.Products.Select(x => new {x.Id, x.Name}).ToList();
+            var query = _context.ColleagueDiscounts
+                .Select(x => new ColleagueDiscountViewModel
+                {
+                    Id = x.Id,
+                    CreationDate = x.CreationDate.ToFarsi(),
+                    ProductId = x.ProductId,
+                    DiscountRate = x.DiscountRate,
+                    IsRemoved = x.IsRemoved
+                });
+            if (searchModel.ProductId > 0)
+                query = query.Where(x
+                    => x.ProductId == searchModel.ProductId);
+            var discounts = query
+                .OrderByDescending(x => x.Id)
+                .ToList();
+            discounts.ForEach(discount =>
+                discount.Product = Products.FirstOrDefault(x => x.Id == discount.ProductId)?.Name);
+            return discounts;
+        }
+    }
+}

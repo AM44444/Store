@@ -1,0 +1,17 @@
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\DiscountManagement.Application.Contract.deps.json
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\ref\DiscountManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\0_FrameWork.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\0_FrameWork.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.csproj.AssemblyReference.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.AssemblyInfo.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.csproj.CopyComplete
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\ref\DiscountManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\DiscountManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

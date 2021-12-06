@@ -17,7 +17,6 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -103,3 +102,19 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\01_TennisQuery.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagementConfiguration.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagementConfiguration.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscount\Create.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscount\Edit.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscount\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscount\Create.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscount\Edit.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscount\Index.cshtml.g.cs
