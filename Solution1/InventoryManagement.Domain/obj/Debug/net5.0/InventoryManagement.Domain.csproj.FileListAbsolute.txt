@@ -1,0 +1,17 @@
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.deps.json
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\ref\InventoryManagement.Domain.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\0_FrameWork.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\0_FrameWork.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfo.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CopyComplete
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb

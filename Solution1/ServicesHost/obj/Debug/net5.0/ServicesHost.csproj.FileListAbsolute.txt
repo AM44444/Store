@@ -118,3 +118,11 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscount\Create.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscount\Edit.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscount\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
