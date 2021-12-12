@@ -12,7 +12,6 @@ namespace ShopManagement.Domain.ProductAgg
     {
         public string Name { get; private set; }
         public string Code { get; private set; }
-        public double UnitPrice { get; private set; }
         public string ShortDescription { get; private set; }
         public string Description { get; private set; }
         public string Picture { get; private set; }
@@ -22,13 +21,12 @@ namespace ShopManagement.Domain.ProductAgg
         public string Slug { get; private set; }
         public string Keywords { get; private set; }
         public string MetaDescription { get; private set; }
-        public bool IsInStock { get; private set; }
         public ProductCategory Category { get; private set; }
         public List<ProductPicture.ProductPicture> ProductPictures { get; private set; }
         public Product(string name, string code,
             string shortDescription, string description,
             string picture, string pictureAlt, string pictureTitle, 
-            long categoryId, string slug, string keywords, string metaDescription, double unitPrice
+            long categoryId, string slug, string keywords, string metaDescription
            )
         {
             Name = name;
@@ -42,14 +40,13 @@ namespace ShopManagement.Domain.ProductAgg
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
-            UnitPrice = unitPrice;
-            IsInStock = true;
+           
 
         }
         public void Edit(string name, string code,
             string shortDescription, string description,
             string picture, string pictureAlt, string pictureTitle,
-            long categoryId, string slug, string keywords, string metaDescription , double unitPrice
+            long categoryId, string slug, string keywords, string metaDescription 
         )
         {
             Name = name;
@@ -63,17 +60,10 @@ namespace ShopManagement.Domain.ProductAgg
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
-            UnitPrice = unitPrice;
+           
         }
 
-        public void InStock()
-        {
-            IsInStock = true;
-        }
-        public void NotInStock()
-        {
-            IsInStock = false;
-        }
+       
 
     }
 }

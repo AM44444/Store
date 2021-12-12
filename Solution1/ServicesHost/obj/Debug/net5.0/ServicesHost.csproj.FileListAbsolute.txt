@@ -126,3 +126,11 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Decrease.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs

@@ -42,7 +42,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Keywords = x.Keywords,
                 MetaDescription = x.MetaDescription,
                 Picture = x.Picture,
-                UnitPrice = x.UnitPrice,
+              
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 ShortDescription = x.ShortDescription,
@@ -59,9 +59,9 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     Category = x.Category.Name,
                     Code = x.Code,
                     Picture = x.Picture,
-                    UnitPrice = x.UnitPrice,
+                  
                     categoryId = x.CategoryId
-                    ,IsInStock = x.IsInStock
+                   
                     ,CreationDate = x.CreationDate.ToFarsi()
                 });
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

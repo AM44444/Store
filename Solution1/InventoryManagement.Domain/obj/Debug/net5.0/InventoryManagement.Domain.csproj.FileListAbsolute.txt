@@ -15,3 +15,5 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\o
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

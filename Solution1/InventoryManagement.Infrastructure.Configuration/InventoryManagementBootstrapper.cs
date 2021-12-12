@@ -9,7 +9,7 @@ using InventoryManagement.Application;
 
 namespace InventoryManagement.Infrastructure.Configuration
 {
-    public class InventoryManagementBootstrapper
+    public static class InventoryManagementBootstrapper
     {
         public static void Configure(IServiceCollection services, string connectionString)
         {

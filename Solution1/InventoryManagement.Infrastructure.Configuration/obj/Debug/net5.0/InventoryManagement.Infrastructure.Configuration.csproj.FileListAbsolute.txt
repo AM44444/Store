@@ -25,3 +25,5 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Infrastr
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.Configuration.dll
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb

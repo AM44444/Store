@@ -33,7 +33,7 @@ namespace ShopManagement.Application
                 command.PictureTitle,
                 command.CategoryId,
                 slug, command.Keywords,
-                command.MetaDescription, command.UnitPrice);
+                command.MetaDescription);
             _productRepository.Create(product);
             _productRepository.SaveChanges();
             return operation.Succeed();
@@ -59,40 +59,13 @@ namespace ShopManagement.Application
                 command.PictureTitle,
                 command.CategoryId,
                 slug, command.Keywords,
-                command.MetaDescription, command.UnitPrice);
+                command.MetaDescription);
 
             _productRepository.SaveChanges();
             return operation.Succeed();
         }
 
-        public OperationResult IsStock(long id)
-        {
-            var operation = new OperationResult();
-            var product = _productRepository.Get(id);
-            if (product == null)
-                return operation.Failed(ApplicationMessage.RecordNotFound);
-
-
-            product.InStock();
-
-            _productRepository.SaveChanges();
-            return operation.Succeed();
-        }
-
-        public OperationResult IsNotStock(long id)
-        {
-
-            var operation = new OperationResult();
-            var product = _productRepository.Get(id);
-            if (product == null)
-                return operation.Failed(ApplicationMessage.RecordNotFound);
-
-
-            product.NotInStock();
-
-            _productRepository.SaveChanges();
-            return operation.Succeed();
-        }
+       
 
         public EditProduct GetDetails(long id)
         {

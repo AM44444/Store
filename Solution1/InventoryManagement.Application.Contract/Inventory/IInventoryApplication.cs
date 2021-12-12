@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace InventoryManagement.Application.Contract.Inventory
 {
   public  interface IInventoryApplication
@@ -17,5 +18,6 @@ namespace InventoryManagement.Application.Contract.Inventory
       EditInventory GetDetails(long id);
 
       List<InventoryViewModel> Search(InventorySearchModel searchModel);
+      List<InventoryOperationViewModel> GetOperationLog(long inventorId);
   }
 }

@@ -85,5 +85,10 @@ namespace InventoryManagement.Application
         {
           return  _inventoryRepository.Search(searchModel);
         }
+
+        public List<InventoryOperationViewModel> GetOperationLog(long inventorId)
+        {
+            return _inventoryRepository.GetOperationLog(inventorId);
+        }
     }
 }
