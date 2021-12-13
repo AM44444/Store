@@ -134,3 +134,7 @@ D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Decrease.cshtml.g.cs
 D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+D:\Users\mashadservice\source\repos\RAZOR\Solution1\ServicesHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs

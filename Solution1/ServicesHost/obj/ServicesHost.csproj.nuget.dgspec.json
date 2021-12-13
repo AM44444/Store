@@ -35,6 +35,12 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              },
+              "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj"
+              },
               "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "D:\\Users\\mashadservice\\source\\repos\\RAZOR\\Solution1\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }

@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using _01_TennisQuery.Contract.Product;
 
 namespace _01_TennisQuery.Contract.ProductCategoryModel
 {
@@ -14,6 +11,9 @@ namespace _01_TennisQuery.Contract.ProductCategoryModel
         public string PictureAlt { get; set; }
         public string PictureTitle { get; set; }
         public string Slug { get; set; }
-
+        public string Description { get; set; }
+        public string MetaDescription { get; set; }
+        public string KeyWords { get; set; }
+        public List<ProductQueryModel> Products { get; set; }
     }
 }

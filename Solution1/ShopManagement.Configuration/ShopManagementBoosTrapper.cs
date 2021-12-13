@@ -2,6 +2,7 @@
 using ShopManagement.Application;
 using ShopManagement.Application.Contracts.ProductCategory;
 using System;
+using _01_TennisQuery.Contract.Product;
 using _01_TennisQuery.Contract.ProductCategoryModel;
 using Microsoft.EntityFrameworkCore;
 using ShopManagement.Application.Contracts.Product;
@@ -32,6 +33,7 @@ namespace ShopManagement.Configuration
             services.AddTransient<ISlideRepository, SlideRepository>();
             services.AddTransient<ISlideQuery, SlideQuery>();
             services.AddTransient<IProductCategoryModel, ProductCategoryQuery>();
+            services.AddTransient<IProductQuery, ProductQuery>();
 
             services.AddDbContext<ShopContext>(x => x.UseSqlServer(ConnectionStrings));
         }
